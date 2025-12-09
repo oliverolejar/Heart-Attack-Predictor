@@ -13,9 +13,7 @@ Predict heart-attack outcome (Result: 0/1) from routine clinical features (Age, 
 Kaggle: Heart Attack Dataset  
 https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid
 
-## Ensemble Architecture
-
-`model_diagram.png`  
+## Ensemble Architecture  
 ![Ensemble Architecture](model_diagram.png)
 
 ## Setup
