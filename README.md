@@ -1,5 +1,9 @@
 # Heart-Attack Prediction: Comparing 4 Models + an Ensemble
 
+***Authors: Oliver Olejar, Micky Huynh, Jinil Desai***
+
+### For a detailed presentation of the underlying methods, experimental framework, and quantitative evaluation, including the rationale for metric selection and validation design, readers can refer to our research paper, which extends and supports the implementation provided here (research_paper.pdf).
+
 Predict heart-attack outcome (Result: 0/1) from routine clinical features (Age, Gender, Heart Rate, Systolic Blood Pressure, Diastolic Blood Pressure, Blood Sugar, CK-MB, Troponin).
 
 ## Models Compared
